@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/agile-ventures-website-react-front-end/precache-manifest.df37322197e35a5eec63997aec274dca.js"
+  "/agile-ventures-website-react-front-end/precache-manifest.5c3c77f6757b03d970d753ef1878f08f.js"
 );
 
 workbox.clientsClaim();
