@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/av-react-frontend/precache-manifest.aaf752aae34f2e15f59d06e5ed151a16.js"
+  "/agile-ventures-website-react-front-end/precache-manifest.df37322197e35a5eec63997aec274dca.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/av-react-frontend/index.html", {
+workbox.routing.registerNavigationRoute("/agile-ventures-website-react-front-end/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
