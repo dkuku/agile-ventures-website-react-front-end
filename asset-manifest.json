@@ -1,9 +1,9 @@
 {
   "main.css": "/agile-ventures-website-react-front-end/static/css/main.76c6419b.chunk.css",
-  "main.js": "/agile-ventures-website-react-front-end/static/js/main.40af977a.chunk.js",
-  "main.js.map": "/agile-ventures-website-react-front-end/static/js/main.40af977a.chunk.js.map",
-  "static/js/1.7a0e6d33.chunk.js": "/agile-ventures-website-react-front-end/static/js/1.7a0e6d33.chunk.js",
-  "static/js/1.7a0e6d33.chunk.js.map": "/agile-ventures-website-react-front-end/static/js/1.7a0e6d33.chunk.js.map",
+  "main.js": "/agile-ventures-website-react-front-end/static/js/main.743011a6.chunk.js",
+  "main.js.map": "/agile-ventures-website-react-front-end/static/js/main.743011a6.chunk.js.map",
+  "static/js/1.5a79dc2b.chunk.js": "/agile-ventures-website-react-front-end/static/js/1.5a79dc2b.chunk.js",
+  "static/js/1.5a79dc2b.chunk.js.map": "/agile-ventures-website-react-front-end/static/js/1.5a79dc2b.chunk.js.map",
   "runtime~main.js": "/agile-ventures-website-react-front-end/static/js/runtime~main.b3d122fe.js",
   "runtime~main.js.map": "/agile-ventures-website-react-front-end/static/js/runtime~main.b3d122fe.js.map",
   "static/media/semantic.min.css": "/agile-ventures-website-react-front-end/static/media/brand-icons.a1a749e8.svg",
@@ -15,6 +15,6 @@
   "static/media/real-projects.svg": "/agile-ventures-website-react-front-end/static/media/real-projects.6ceb96f4.svg",
   "static/css/main.76c6419b.chunk.css.map": "/agile-ventures-website-react-front-end/static/css/main.76c6419b.chunk.css.map",
   "index.html": "/agile-ventures-website-react-front-end/index.html",
-  "precache-manifest.dec76fc8642f0ab107f8861baa9655d4.js": "/agile-ventures-website-react-front-end/precache-manifest.dec76fc8642f0ab107f8861baa9655d4.js",
+  "precache-manifest.bd3cc410ae6d254d2ad3b7389474e66a.js": "/agile-ventures-website-react-front-end/precache-manifest.bd3cc410ae6d254d2ad3b7389474e66a.js",
   "service-worker.js": "/agile-ventures-website-react-front-end/service-worker.js"
 }

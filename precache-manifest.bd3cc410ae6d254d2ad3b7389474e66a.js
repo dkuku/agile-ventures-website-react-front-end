@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/agile-ventures-website-react-front-end/static/media/outline-icons.701ae6ab.eot"
   },
   {
-    "revision": "40af977acf81277fc695",
+    "revision": "743011a66d436f49f3eb",
     "url": "/agile-ventures-website-react-front-end/static/css/main.76c6419b.chunk.css"
   },
   {
-    "revision": "7a0e6d331c459e1288ec",
-    "url": "/agile-ventures-website-react-front-end/static/js/1.7a0e6d33.chunk.js"
+    "revision": "5a79dc2b99f775e73609",
+    "url": "/agile-ventures-website-react-front-end/static/js/1.5a79dc2b.chunk.js"
   },
   {
     "revision": "b3d122fec435578ce63d",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/agile-ventures-website-react-front-end/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "40af977acf81277fc695",
-    "url": "/agile-ventures-website-react-front-end/static/js/main.40af977a.chunk.js"
+    "revision": "743011a66d436f49f3eb",
+    "url": "/agile-ventures-website-react-front-end/static/js/main.743011a6.chunk.js"
   },
   {
     "revision": "ad97afd3337e8cda302d10ff5a4026b8",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/agile-ventures-website-react-front-end/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "37ef6f8b61710d1f5e5dd11297d78706",
+    "revision": "0548d5beb8bef1f6b90d0d339d110321",
     "url": "/agile-ventures-website-react-front-end/index.html"
   }
 ];
